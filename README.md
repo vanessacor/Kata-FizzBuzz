@@ -21,3 +21,5 @@ Aplica las siguientes normas:
 - Devuelve Buzz si el número es divisible por 5.
 - Devuelve FizzBuzz si el número es divisible por 3 y por 5.
 - Devuelve el mismo número si no se cumple nada de lo anterior.
+
+[![Run on Repl.it](https://repl.it/badge/github/FactoriaF5/Kata-FizzBuzz)](https://repl.it/github/FactoriaF5/Kata-FizzBuzz)
