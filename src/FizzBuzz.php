@@ -17,4 +17,16 @@ class FizzBuzz {
 
     return $number;
   }
+
+  public function printNumbers() {
+    for ($i = 1; $i <= 100; $i++) {
+      echo $this->evaluate($i) . "<br>" ;
+      
+    }
+  }
 }
+  
+  $test = new FizzBuzz();
+  $test->printNumbers();
+
+  
